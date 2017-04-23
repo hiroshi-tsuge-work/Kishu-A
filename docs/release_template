@@ -1,5 +1,5 @@
 #== system setting
-"AT TIME" = "" 
+"AT DATE" = "" 
 "RELEASE_TAG_NAME_BASE" = "" 
 #== build setting 
 "WORKSPACE" = "true" 
